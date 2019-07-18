@@ -6,3 +6,4 @@ Author Two
 Introduction Section
 
 A citation
+Second citation
