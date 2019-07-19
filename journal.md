@@ -1,4 +1,4 @@
-Paper Title
+Better Paper Title
 
 Author One
 Author Two
