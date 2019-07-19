@@ -1,7 +1,7 @@
 New AND Better Paper Title
 
-Author One
 Author Two
+Author One
 John as author
 
 Introduction Section
@@ -20,3 +20,5 @@ Results Section
 Figures Section
 
 Conclusions setting
+
+
