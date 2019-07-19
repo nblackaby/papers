@@ -18,3 +18,5 @@ reference 1
 Results Section
 
 Figures Section
+
+Conclusions setting
