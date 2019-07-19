@@ -1,7 +1,8 @@
-Paper Title
+New Paper Title
 
 Author One
 Author Two
+John as author
 
 Introduction Section
 
