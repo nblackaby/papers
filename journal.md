@@ -1,7 +1,7 @@
 New AND Better Paper Title
 
-Author Two
 Author One
+Author Two
 John as author
 
 Introduction Section
