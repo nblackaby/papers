@@ -16,3 +16,5 @@ Methodology section
 reference 1
 
 Results Section
+
+Figures Section
